@@ -24,3 +24,10 @@ if (result !== null) {
 } else {
   alert("There are no non-repeated characters in the string.");
 }
+
+
+
+
+
+
+
